@@ -1,0 +1,8 @@
+normal:
+g++ main.cpp -o main
+
+
+for shared library:
+
+g++ Activation_Functions/ReLU.cpp TensorClass/neuroBlock.cpp -o main
+
