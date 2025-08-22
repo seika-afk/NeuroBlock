@@ -1,0 +1,6 @@
+[submodule "Activation_functions"]
+	path = Activation_functions
+	url = https://github.com/seika-afk/Activation-Functions-in-CPP.git
+[submodule "Tensor_Class"]
+	path = Tensor_Class
+	url = https://github.com/seika-afk/Tensor-Class--cpp.git
